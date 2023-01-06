@@ -3,7 +3,7 @@ I analyzed a movie database and compared the budget, vote average, and popularit
 
 I found a dataset on Kaggle with various information regarding thousands of movies. The dataset included several different columns that gave me access to different types of data needed to make predictions with. In specific the columns were:
 
-homepage
+homepage\n
 id
 original_title
 overview
