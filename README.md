@@ -3,6 +3,18 @@ I analyzed a movie database and compared the budget, vote average, and popularit
 
 I found a dataset on Kaggle with various information regarding thousands of movies. The dataset included several different columns that gave me access to different types of data needed to make predictions with. In specific the columns were:
 
-homepage, id, original_title, overview, popularity, production_companies, production_countries, release_date, spoken_languages, status, tagline, vote_average
+* homepage
+* id
+* original_title
+* overview, popularity
+* production_companies
+* production_countries
+* release_date
+* spoken_languages
+* status
+* tagline
+* vote_average
 
 Some of the data were given in an array format where I was able to use string manipulation to extract the data that was necessary (when I was looking for the names of the movie producer companies).
+
+The link to the dataset is: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
