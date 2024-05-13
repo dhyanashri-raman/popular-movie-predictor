@@ -18,3 +18,4 @@ I found a dataset on Kaggle with various information regarding thousands of movi
 Some of the data were given in an array format where I was able to use string manipulation to extract the data that was necessary (when I was looking for the names of the movie producer companies).
 
 The link to the dataset is: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+The link to the data visualizations: https://medium.com/@dhyanashri.raman/which-movie-producers-make-the-most-revenue-b2c7443b1a40
